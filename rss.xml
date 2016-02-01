@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[FM 108 WDMT]]></title>
         <description><![CDATA[FM 108 WDMT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fm-108-wdmt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 17:09:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 17:21:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fm-108-wdmt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/913831b8-d643-4aab-b0ca-c9a500e59e5a.png">]]></description>
-            <link>undefined391f3d5a-7abc-4630-a027-3eac8092efdf/index.html</link>
+            <link>https://thegrid.ai/fm-108-wdmt/391f3d5a-7abc-4630-a027-3eac8092efdf/index.html</link>
             <guid isPermaLink="false">391f3d5a-7abc-4630-a027-3eac8092efdf</guid>
-            <pubDate>Mon, 01 Feb 2016 17:07:05 GMT</pubDate>
+            <pubDate>Mon, 01 Feb 2016 17:21:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
