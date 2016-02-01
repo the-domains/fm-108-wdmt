@@ -1,0 +1,28 @@
+name: FM 108 WDMT
+favicon: null
+layout_spectrum: 0.24446092126891017
+typography_spectrum: 0.8871220278088003
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.32928755204193294
+  lightness: 0.2660946005489677
+  saturation: 0.2221602932550013
+  rhythmicContrast: 0.47066109254956245
+purpose: []
